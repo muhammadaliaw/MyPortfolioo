@@ -7,7 +7,7 @@ i18n.use(initReactI18next).init({
       translation: {
         brand: "Software Engineer",
         nav: { about: "About", skills: "Skills", projects: "Projects", experience: "Experience", blog: "Blog", contact: "Contact" },
-        hero: { greeting: "Hi, I'm", name: "Muhammad Ali", title: "AI & ML Engineer", desc: "Building intelligent systems with deep learning and scalable AI.", projects: "View Projects", resume: "Download Resume" }
+        hero: { greeting: "Hi, I am ", name: "Muhammad Ali", title: "AI & ML Engineer", desc: "Building intelligent systems with deep learning and scalable AI.", projects: "View Projects", resume: "Download Resume" }
       }
     },
     es: {
