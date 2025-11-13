@@ -22,13 +22,13 @@ export default function Contact() {
             <h3 className="text-2xl font-bold mb-6">Let's Connect</h3>
             <div className="space-y-4">
               <a href="mailto:muhammadali35484@gmail.com" className="flex items-center gap-3 text-gray-700 hover:text-primary">
-                <Mail /> muhammadali35484@gmail.com
+                <Mail /> Gmail
               </a>
               <a href="https://linkedin.com/in/muhammad-ali-b3220a30b/" className="flex items-center gap-3 text-gray-700 hover:text-primary" target="_blank" rel="noopener noreferrer">
-                <Linkedin /> linkedin.com/in/muhammad-ali-b3220a30b/
+                <Linkedin /> Linkdin
               </a>
               <a href="https://github.com/muhammadaliawdfg" className="flex items-center gap-3 text-gray-700 hover:text-primary" target="_blank" rel="noopener noreferrer">
-                <Github /> github.com/muhammadaliawdfg
+                <Github /> Github
               </a>
             </div>
           </motion.div>
