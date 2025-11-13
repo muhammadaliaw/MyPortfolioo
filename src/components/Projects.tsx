@@ -12,7 +12,7 @@ const projects = [
     title: "AI Health Assistant",
     desc: "Using RaG and Global Healthcare data to provide accurate health information",
     tags: ["Python", "Healthcare", "FastAPI"],
-    github: "#", demo: "#"
+    github: "https://my-portfolioo-flax.vercel.app/", demo: "#"
   },
 
 ]
